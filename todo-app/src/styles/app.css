@@ -1,0 +1,33 @@
+.app-container {
+  min-height: 100vh;
+  padding: 2rem 0;
+}
+
+.app-header {
+  margin-bottom: 2rem;
+}
+
+.app-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.todo-list {
+  margin-bottom: 2rem;
+}
+
+.form-check-input:checked {
+  background-color: #198754;
+  border-color: #198754;
+}
+
+@media (max-width: 768px) {
+  .app-title {
+    font-size: 2rem;
+  }
+  
+  .d-flex.gap-2 {
+    gap: 0.5rem !important;
+  }
+}
