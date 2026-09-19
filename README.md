@@ -13,6 +13,12 @@ A task management application (ToDo List) built with React + Vite + TypeScript u
 - 🌓 **Dark Mode** - Toggle between light and dark themes
 - 💾 **Data Persistence** - All tasks saved in IndexedDB
 
+## 📸 Screenshots
+
+![Light mode task list](docs/screenshots/light-mode.png)
+
+See [docs/SCREENSHOTS.md](docs/SCREENSHOTS.md) for more screenshots (dark mode, task editing).
+
 ## 🛠️ Technologies
 
 - **React 19** - UI Library
